@@ -1,0 +1,54 @@
+{
+  "streams": [
+    {
+      "title": "Mi Stream 1 ",
+      "description": "esta es la descripcion de mi stream 1",
+      "id": 1
+    },
+    {
+      "title": "Mi Stream 2",
+      "description": "esta es la descripcion de mi stream 2",
+      "id": 2
+    },
+    {
+      "title": "Mi Stream 3",
+      "description": "esta es la descripcion de mi stream 3",
+      "id": 3
+    },
+    {
+      "title": "Mi Stream 4",
+      "description": "esta es la descripcion de mi stream 4",
+      "id": 4
+    },
+    {
+      "title": "STREAM 1 DE GMAIL EDITADO",
+      "description": "DESCRIPCIO DE STREAM 1 DE GMAIL",
+      "userid": "112438498381549286380",
+      "id": 5
+    },
+    {
+      "title": "STREAM 2 DE GMAIL editado",
+      "description": "DESCRIPCION DE STREAM 2 DE GMAIL",
+      "userid": "112438498381549286380",
+      "id": 6
+    },
+    {
+      "title": "STREAM 3 DE GMAIL",
+      "description": "DESCRIPCION DE STREAM 3 DE GMAIL",
+      "userid": "112438498381549286380",
+      "id": 7
+    },
+    {
+      "title": "STREAM 4 DE GMAIL",
+      "description": "DESCRIPCION STREAM 4 DE GMAIL",
+      "userid": "112438498381549286380",
+      "id": 8
+    },
+    {
+      "title": "STREAM 5 DE GMAIL",
+      "description": "DESCRIPCION DE STREAM 5 DE GMAIL",
+      "userid": "112438498381549286380",
+      "id": 9
+    }
+  ]
+}
